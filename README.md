@@ -73,6 +73,10 @@ Beberapa proyek yang pernah saya kerjakan:
 
 ---
 
+<img src="https://raw.githubusercontent.com/maurodesouzae/maurodesouzae/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 📊 GitHub Statistics
 
 <div align="center">
