@@ -5,21 +5,22 @@
 </div>
 
 <p align="center">
-  🚀 Cek My Portfolio: <a href="https://mamun-efendi-portfolio.vercel.app/" target="_blank"><strong>mamun-efendi-portfolio.vercel.app</strong></a>
+  🚀 Check My Portfolio: <a href="https://mamun-efendi-portfolio.vercel.app/" target="_blank"><strong>mamun-efendi-portfolio.vercel.app</strong></a>
 </p>
 
 ## 💫 About Me
 
 Saya adalah mahasiswa **Universitas Negeri Semarang** angkatan **2022** yang saat ini sedang fokus menekuni bidang **web development fullstack**. Selama proses belajar, saya telah menguasai dan membuat beberapa proyek menggunakan berbagai bahasa pemrograman dan framework modern.
 
-Beberapa proyek yang pernah saya kerjakan:
-- **🏪 Stoqy** – Menggunakan Laravel, Vue 3, dan Inertia.js
-- **😊 MoodSync** – Menggunakan NestJS + Next.js, MySQL, dan TypeScript  
-- **🎫 Selepin** – Dibangun dengan Next.js, NestJS, TypeScript, Prisma, PostgreSQL, serta Docker
-
 <img src="https://raw.githubusercontent.com/efendi7/efendi7/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## 🚀 Beberapa proyek yang pernah saya kerjakan:
+
+- **🏪 Stoqy** – Menggunakan **Vue 3**, **Inertia.js**, **Laravel**, dan **MySQL**  
+- **😊 MoodSync** – Menggunakan **Next.js**, **NestJS**, **MySQL**, dan **TypeScript**  
+- **🎫 Selepin** – Dibangun dengan **Next.js**, **NestJS**, **PostgreSQL**, **Prisma**, **Docker**, dan **TypeScript**
 
 ---
 
