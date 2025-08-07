@@ -17,6 +17,10 @@ Beberapa proyek yang pernah saya kerjakan:
 - **😊 MoodSync** – Menggunakan NestJS + Next.js, MySQL, dan TypeScript  
 - **🎫 Selepin** – Dibangun dengan Next.js, NestJS, TypeScript, Prisma, PostgreSQL, serta Docker
 
+<img src="https://raw.githubusercontent.com/efendi7/efendi7/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 
 ## 🛠️ Tech Stack
@@ -72,10 +76,6 @@ Beberapa proyek yang pernah saya kerjakan:
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/efendi7/efendi7/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 📊 GitHub Statistics
 
