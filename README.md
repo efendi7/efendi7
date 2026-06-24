@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Muhammad Ma'mun Efendi!
+# Hi, I'm Muhammad Ma'mun Efendi!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+UNNES;Fullstack+Web+Developer;Class+of+2022;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  🚀 Check My Portfolio: <a href="https://mamun-efendi-portfolio.vercel.app/" target="_blank"><strong>mamun-efendi-portfolio.vercel.app</strong></a>
+  Check My Portfolio: <a href="https://mamun-efendi-portfolio.vercel.app/" target="_blank"><strong>mamun-efendi-portfolio.vercel.app</strong></a>
 </p>
 
-## 💫 About Me
+## About Me
 
 Saya adalah mahasiswa **Universitas Negeri Semarang** angkatan **2022** yang saat ini sedang fokus menekuni bidang **web development fullstack**. Selama proses belajar, saya telah menguasai dan membuat beberapa proyek menggunakan berbagai bahasa pemrograman dan framework modern.
 
@@ -16,15 +16,58 @@ Saya adalah mahasiswa **Universitas Negeri Semarang** angkatan **2022** yang saa
 
 ###
 
-## 🚀 Beberapa proyek yang pernah saya kerjakan:
+## Proyek yang sedang dikerjakan
 
-- **🏪 Stoqy** – Menggunakan **Vue 3**, **Inertia.js**, **Laravel**, dan **MySQL**  
-- **😊 MoodSync** – Menggunakan **Next.js**, **NestJS**, **MySQL**, dan **TypeScript**  
-- **🎫 Selepin** – Dibangun dengan **Next.js**, **NestJS**, **PostgreSQL**, **Prisma**, **Docker**, dan **TypeScript**
+### Kasioo — POS SaaS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" title="Node.js (Cloud Functions)" />
+</p>
+
+Aplikasi Point of Sale berbasis SaaS multi-tenant untuk Android & Web. Fitur: Kitchen Display System, manajemen meja & shift, barcode scanner, offline-first queue, laporan & ekspor Excel, Firebase Cloud Functions (Node 18). Stack: **React Native (Expo SDK 54)** · **Firebase** (Firestore, Auth, Storage, Functions) · **TypeScript** · **EAS Build**.
 
 ---
 
-## 🛠️ Tech Stack
+### Sistem Manajemen Sekolah
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React Native (Expo)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28" title="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
+</p>
+
+Monorepo aplikasi administrasi sekolah — web dashboard & mobile app. Fitur: manajemen kelas, jadwal, LMS (materi & tugas), absensi, dan role-based access (admin/guru/siswa/orang tua). Stack: **Next.js 16** (App Router) · **Expo SDK 54** (React Native) · **Supabase** (PostgreSQL, Auth SSR, Storage) · **Tailwind CSS v4** · **TypeScript**.
+
+---
+
+### Fencilart — Platform Komisi Lukis
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="28" title="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28" title="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
+</p>
+
+Platform e-commerce jasa lukis wajah (portrait art commission) berbasis Indonesia. Fitur: galeri karya, sistem pemesanan ready-stock & komisi, payment gateway Midtrans, tracking status komisi, email transaksional (Resend), dan admin dashboard. Stack: **Next.js 16** · **Prisma ORM** · **PostgreSQL** (via Supabase) · **NextAuth.js** · **Midtrans** · **Framer Motion + GSAP** · **TypeScript**.
+
+---
+
+### Surela Desa — Sistem Informasi Desa
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" title="Laravel 12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" title="Vue 3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="28" title="Vite" />
+</p>
+
+Sistem informasi desa full-stack dengan arsitektur Laravel + Inertia.js + Vue 3 (LIV). Fitur: manajemen perangkat desa & org chart, pengajuan surat, pengaduan warga, direktori UMKM, berita & pengumuman, ekspor PDF/Word, dan OCR dokumen. Stack: **Laravel 12** · **Vue 3** · **Inertia.js** · **MySQL** · **Tailwind CSS** · **Vite 5** · **DomPDF** · **PHPWord** · **OCR.space API**.
+
+---
+
+## Tech Stack
 
 ### Frontend Development
 <p>
@@ -78,42 +121,7 @@ Saya adalah mahasiswa **Universitas Negeri Semarang** angkatan **2022** yang saa
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=efendi7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efendi7&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=efendi7&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=efendi7&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=efendi7&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/muhammad-mamun-efendi">
