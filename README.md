@@ -1,48 +1,62 @@
-# Hi, I'm Muhammad Ma'mun Efendi!
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+UNNES;Fullstack+Web+Developer;Class+of+2022;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
+
+# Hi, I'm Muhammad Ma'mun Efendi
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Fresh+Graduate+%7C+Informatics+Engineering;Full-Stack+%26+Mobile+Developer;Open+to+Work+%7C+Junior+Developer" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Role-Junior%20Developer-blue?style=for-the-badge" alt="Junior Developer" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Demak%2C%20Indonesia-red?style=for-the-badge" alt="Demak, Indonesia" />
+</p>
+
+<p>
   Check My Portfolio: <a href="https://mamun-efendi-portfolio.vercel.app/" target="_blank"><strong>mamun-efendi-portfolio.vercel.app</strong></a>
 </p>
 
+</div>
+
+---
+
 ## About Me
 
-Saya adalah mahasiswa **Universitas Negeri Semarang** angkatan **2022** yang saat ini sedang fokus menekuni bidang **web development fullstack**. Selama proses belajar, saya telah menguasai dan membuat beberapa proyek menggunakan berbagai bahasa pemrograman dan framework modern.
+Fresh Graduate in Informatics Engineering from Universitas Negeri Semarang, bridging computer science theory with industry-standard software development. I specialize in building full-stack web applications with **Next.js** and cross-platform mobile apps with **React Native (Expo)**, integrating **Firebase** for real-time capabilities and **Supabase** as a BaaS solution. I use **Prisma** as my primary ORM and **Laravel + Inertia.js** for server-driven SPA architectures. I also integrate AI into my development workflow to ship faster and troubleshoot efficiently. Committed to clean, maintainable code and user-centric products that solve real business problems.
 
 <img src="https://raw.githubusercontent.com/efendi7/efendi7/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-## Proyek yang sedang dikerjakan
+## Current Projects
 
 ### Kasioo — POS SaaS
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" title="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" title="Node.js (Cloud Functions)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" title="Node.js" />
 </p>
 
-Aplikasi Point of Sale berbasis SaaS multi-tenant untuk Android & Web. Fitur: Kitchen Display System, manajemen meja & shift, barcode scanner, offline-first queue, laporan & ekspor Excel, Firebase Cloud Functions (Node 18). Stack: **React Native (Expo SDK 54)** · **Firebase** (Firestore, Auth, Storage, Functions) · **TypeScript** · **EAS Build**.
+Multi-tenant SaaS Point of Sale for Android & Web. Features Kitchen Display System, table & shift management, barcode scanner, offline-first queue, Excel reports, and Firebase Cloud Functions. Built with **React Native (Expo SDK 54)** · **Firebase** (Firestore, Auth, Storage, Functions) · **TypeScript** · **EAS Build**.
 
 ---
 
-### Sistem Manajemen Sekolah
+### School Management System
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React Native (Expo)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28" title="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
 </p>
 
-Monorepo aplikasi administrasi sekolah — web dashboard & mobile app. Fitur: manajemen kelas, jadwal, LMS (materi & tugas), absensi, dan role-based access (admin/guru/siswa/orang tua). Stack: **Next.js 16** (App Router) · **Expo SDK 54** (React Native) · **Supabase** (PostgreSQL, Auth SSR, Storage) · **Tailwind CSS v4** · **TypeScript**.
+Monorepo with web dashboard and mobile app for school administration. Features class & schedule management, LMS (materials & assignments), attendance, and role-based access (admin/teacher/student/parent). Built with **Next.js 16** (App Router) · **Expo SDK 54** · **Supabase** (PostgreSQL, Auth SSR, Storage) · **Tailwind CSS v4** · **TypeScript**.
 
 ---
 
-### Fencilart — Platform Komisi Lukis
+### Fencilart — Art Commission Platform
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" title="PostgreSQL" />
@@ -51,11 +65,11 @@ Monorepo aplikasi administrasi sekolah — web dashboard & mobile app. Fitur: ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
 </p>
 
-Platform e-commerce jasa lukis wajah (portrait art commission) berbasis Indonesia. Fitur: galeri karya, sistem pemesanan ready-stock & komisi, payment gateway Midtrans, tracking status komisi, email transaksional (Resend), dan admin dashboard. Stack: **Next.js 16** · **Prisma ORM** · **PostgreSQL** (via Supabase) · **NextAuth.js** · **Midtrans** · **Framer Motion + GSAP** · **TypeScript**.
+E-commerce platform for portrait art commissions. Features gallery, ready-stock & custom commission orders, Midtrans payment gateway, commission progress tracking, transactional email (Resend), and admin dashboard. Built with **Next.js 16** · **Prisma ORM** · **PostgreSQL** (Supabase) · **NextAuth.js** · **Midtrans** · **Framer Motion + GSAP** · **TypeScript**.
 
 ---
 
-### Surela Desa — Sistem Informasi Desa
+### Surela Desa — Village Information System
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" title="Laravel 12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" title="Vue 3" />
@@ -63,60 +77,57 @@ Platform e-commerce jasa lukis wajah (portrait art commission) berbasis Indonesi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="28" title="Vite" />
 </p>
 
-Sistem informasi desa full-stack dengan arsitektur Laravel + Inertia.js + Vue 3 (LIV). Fitur: manajemen perangkat desa & org chart, pengajuan surat, pengaduan warga, direktori UMKM, berita & pengumuman, ekspor PDF/Word, dan OCR dokumen. Stack: **Laravel 12** · **Vue 3** · **Inertia.js** · **MySQL** · **Tailwind CSS** · **Vite 5** · **DomPDF** · **PHPWord** · **OCR.space API**.
+Full-stack village information system using the Laravel + Inertia.js + Vue 3 (LIV) stack. Features official org chart, letter submission, community complaints, MSME directory, news & announcements, PDF/Word export, and OCR document processing. Built with **Laravel 12** · **Vue 3** · **Inertia.js** · **MySQL** · **Tailwind CSS** · **Vite 5** · **DomPDF** · **PHPWord** · **OCR.space API**.
 
 ---
 
 ## Tech Stack
 
-### Frontend Development
+### Mobile
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="EAS" src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+### Web Frontend
+<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### Backend Development
+### Backend
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img alt="Inertia.js" src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+  <img alt="NextAuth" src="https://img.shields.io/badge/NextAuth.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### Database & ORM
+### Database & BaaS
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </p>
 
-### Tools & DevOps
+### Tools & Workflow
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
-
-### Design & Others
-<p>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
 
 ---
